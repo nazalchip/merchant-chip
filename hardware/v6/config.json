@@ -1,0 +1,13 @@
+{
+    "DESIGN_NAME": "top_v6",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20,
+    "FP_CORE_UTIL": 50,
+    "DIE_AREA": "0 0 15000 15000",
+    "FP_PDN_HPITCH": 150,
+    "FP_PDN_VPITCH": 150,
+    "PL_TARGET_DENSITY": 0.55,
+    "KLAYOUT_XOR_IGNORE_LAYERS": "235/4",
+    "PDK": "sky130A"
+}
